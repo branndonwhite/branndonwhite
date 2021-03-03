@@ -23,5 +23,5 @@ Here are something that I'm doing right now:
 - ⚡ Fun fact: photography and gardening are my brain food too!
 
 #### 📫 Reach me from here
-[<img src="linkedin.png" alt="LinkedIn" width="50" style="vertical-align:top">](https://www.linkedin.com/in/brandon-white-389467190/)
+[<img src="linkedin.png" alt="LinkedIn" width="50" style="vertical-align:bottom">](https://www.linkedin.com/in/brandon-white-389467190/)
 [<img src="instagram.png" alt="Instagram" width="43" style="vertical-align:top">](https://www.instagram.com/branndonwhitte/)
