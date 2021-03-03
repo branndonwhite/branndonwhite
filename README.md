@@ -24,4 +24,4 @@ Here are something that I'm doing right now:
 
 #### 📫 Reach me from here
 [<img src="linkedin.png" alt="LinkedIn" width="50">](https://www.linkedin.com/in/brandon-white-389467190/)
-[<img src="instagram.png" alt="Instagram" width="40">](https://www.instagram.com/branndonwhitte/)
+[<img src="instagram.png" alt="Instagram" width="45">](https://www.instagram.com/branndonwhitte/)
