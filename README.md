@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Oh Hello! I'm Brandon. Welcome to my Github 👋
 
 Here are something that I'm doing right now:
-- 🔭 I’m currently self-learning and working on the thesis
+- 🔭 I’m currently self-learning
 - 🌱 I’m currently learning Firebase and Express.js
 - ⚡ Fun fact: photography and gardening are my brain food too!
 
