@@ -13,15 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Being conscientious and perfectionist is my habit. Loves to work in a team and always being supportive. Enjoy learning and exploring new things. 
+> Being conscientious and a perfectionist is my habit. Loves to work in a team and always be supportive. Enjoy learning and exploring new things. 
 
-### Oh Hello! I'm Brandon. Welcome to my Github 👋
+### Hello! I'm Brandon. Welcome to my Github 👋
 
-Here are something that I'm doing right now:
-- 🔭 I’m currently self-learning
-- 🌱 I’m currently learning Firebase and Express.js
-- ⚡ Fun fact: photography and gardening are my brain food too!
+🔭 I’m currently looking for a new opportunity
 
 #### 📫 Reach me from here
 [<img src="linkedin.png" alt="LinkedIn" width="25">](https://www.linkedin.com/in/brandon-white-389467190/)&nbsp;&nbsp;&nbsp;
-[<img src="instagram.png" alt="Instagram" width="25">](https://www.instagram.com/branndonwhitte/)
