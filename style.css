@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html, button {
+    font-family: "Inter", sans-serif;
+    background-color: #E6EFF8 ;
+}
+
+.title {
+    font-family: "Inter Tight", sans-serif;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+.message {
+    font-weight: 500;
+}
+
+#navbar {
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+.navlist {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.navlist > li > a {
+    color: #594117;
+    margin: 0 2rem;
+    text-decoration: none;
+}
+
+.navlist > li > a:hover {
+    color: #997028;
+}
+
+.navlist > li > .fi-rr-sun, .fi-rr-moon {
+    margin: 0 0.25rem;
+    color: #594117;
+}
+
+#jumbotron {
+    background-color: #BEBEBE;
+}
+
+.welcome {
+    padding: 12rem 6rem;
+}
+
+.title, .message, #about, #works {
+    color: #005BBD;
+}
+
+#about, #works {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 4rem;
+}
+
+.chapter {
+    margin: 2rem;
+}
+
+.location, .experience, .used-stack {
+    margin: 1rem;
+}
+
+.sub-chapter {
+    margin: 3rem;
+}
+
+.tools {
+    padding: 2rem 0.25rem;
+    display: flex;
+    justify-content: center;
+}
+
+.tools > img {
+    margin: 0 2rem;
+    width: 60px;
+}
+
+.recent-project, .other-project {
+    list-style: none;
+    text-align: left;
+    padding: 0rem 8rem;
+}
+
+.recent-project > .project {
+    display: flex;
+}
+
+.recent-project > .project > .project-card {
+    flex: 2 1 auto;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-evenly;
+}
+
+.recent-project > .project > .project-card > * {
+    margin: 18px 18px 0 18px;
+}
+
+.recent-project > .project > .project-card > p.tools-used{
+    font-weight: bold;
+    color: #594117;
+}
+
+.recent-project > .project > .project-card > a button {
+    height: 46px;
+    width: 120px;
+    border-radius: 12px;
+    border-style: none;
+    background-color: #FFBA42;
+    color: #73541E;
+    cursor: pointer;
+}
+
+.recent-project > .project > .project-card > a button:hover {
+    background-color: #E6A73B;
+    color: #594117;
+}
+
+.recent-project > .project > .project-card > a {
+    text-decoration: none;
+}
+
+.recent-project > .project > .screenshot {
+    flex: 1 1 0;
+}
+
+.other-project > .project {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 46px 46px;
+}
+
+.other-project > .project > a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.other-project > .project > .card {
+    cursor: pointer;
+    background-color: #004997;
+    padding: 16px;
+    text-align: left;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.other-project > .project > .card:hover {
+    background-color: #0052AA;
+}
+
+.other-project > .project > a > .other-project-card > * {
+    margin-bottom: 12px;
+    color: #E6EFF8;
+}
+
+.other-project > .project > a > .other-project-card > .app-name{
+    font-weight: bold;
+}
+
+button.github {
+    margin: 4rem;
+    border-style: none;
+    font-size: 16px;
+    color: #005BBD;
+    cursor: pointer;
+}
+
+button.github:hover {
+    color: #0052AA;
+}
+
+footer {
+    background-color: #FFBA42;
+    color: #005BBD;
+    display: flex;
+    align-items: start;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 4rem 8rem;
+}
+
+footer .notes {
+    margin: 4rem 0;
+    text-align: left;
+}
+
+.contact a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+.contact svg {
+    width: 48px;
+    color: #005BBD;
+}
+
+.contact svg:hover {
+    color: #0052AA;
+}
+
+.contact .github {
+    margin-bottom: 6%;
+}
+
+.jump-to ul {
+    list-style: none;
+    padding: 0;
+}
+
+.jump-to li {
+    margin: 8px 0;
+    cursor: pointer;
+}
+
+.jump-to a {
+    text-decoration: none;
+    color: #005BBD;
+}
+
+.jump-to a:hover {
+    color: #0052AA;
+}
